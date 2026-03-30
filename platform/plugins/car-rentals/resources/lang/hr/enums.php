@@ -1,0 +1,12 @@
+<?php
+
+return [
+    'commission_fee_types' => [
+        'percentage' => 'Postotak',
+        'fixed' => 'Fiksni iznos',
+    ],
+    'distance-units' => [
+        'miles' => 'Milje',
+        'kilometers' => 'Kilometri',
+    ],
+];
